@@ -1,1 +1,2 @@
+local altstotal = getgenv().#alts
 
